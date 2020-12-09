@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "WEB_SOCKET_PLAYGROUND"
